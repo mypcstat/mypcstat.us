@@ -3,7 +3,7 @@ name: mypcstat
 email: support@mypcstat.us
 description: the last status monitor for windows with love
 
-baseurl: "/blog"
+baseurl: "/mypcstat.us"
 url: ""
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
