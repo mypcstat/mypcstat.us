@@ -1,5 +1,5 @@
-title: MyPCStat
-name: mypcstat
+title: MyPCStatus
+name: mypcstatus
 email: support@mypcstat.us
 description: the last status monitor for windows with love
 
@@ -13,24 +13,24 @@ parallax_image_two: assets/images/startup3.jpg
 
 project_one: "CPU"
 project_one_description: Realtime CPU usage
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one_url: #
 project_one_icon: location_on
 
 project_two: Network
 project_two_description: Send and Receive graph
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two_url: #
 project_two_icon: photo_camera
 
 
 project_three: Memory
 project_three_description: Memory usage
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_three_url: #
 project_three_icon: hotel
 
 
 project_four: Upcoming
 project_four_description: a lot of feature is on the way
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four_url: #
 project_four_icon: restaurant
 
 portfolio_heading: Features
@@ -40,9 +40,11 @@ syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
 
 skills:
-  - name: amazonwebservices
-  - name: android
-  - name: angularjs
+  - name: windows8
+  - name: visualstudio
+  - name: cplusplus
+site:
+  - colored: colored
 
 
 icon_size: 50 # font-size of icons in px
@@ -50,8 +52,9 @@ colored: colored # Leave blank for black and white icons
 
 project_button: Detail
 
-github: https://github.com/jameshamann/jekyll-material-theme
-medium: https://medium.com
+github: https://github.com/mypcstat/mypcstat.us
+medium: #
+download: https://github.com/mypcstat/mypcstat.us/releases
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
 url: http://localhost:4000/ #the url of your site
